@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  Bioinformatics • Python • Genomics • Computational Biology
+  Bioinformatics • Python • Genomics
 </p>
 
 <br>
