@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">
-  Hi 👋, I'm Heloísa Duarte
+  Hi 👋, I'm Heloisa
 </h1>
 
 <h3 align="center">
@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  Bioinformatics • Python • Genomics • Computational Biology
+  Bioinformatics • Python • Genomics 
 </p>
 
 <br>
