@@ -1,6 +1,8 @@
-<img src="github%20profile.png" width="100%">
-  <img src="banner.png" width="100%" alt="Banner">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Heloísa%20Duarte&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bioprocess%20Engineering%20%26%20Biotechnology&descAlignY=55&descSize=16" width="100%"/>
+</div>
+
+<br>
 
 <h1 align="center">
   Hi 👋, I'm Heloísa Duarte
@@ -11,41 +13,76 @@
 </h3>
 
 <p align="center">
-  Bioinformatics • Python • Genomics
+  Bioinformatics • Python • Genomics • Computational Biology
 </p>
+
+<br>
+
+---
 
 <br>
 
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-I'm an undergraduate student in <b>Bioprocess Engineering and Biotechnology</b> at UNEB.
+  I'm an undergraduate student in <b>Bioprocess Engineering and Biotechnology</b> at <b>UNEB</b>.
 </p>
 
 <p align="center">
-Currently involved in <b>bioinformatics research</b>, focusing on the computational discovery of antimicrobial peptides from Caatinga plant species.
+  Currently involved in <b>bioinformatics research</b>, focusing on the computational discovery of antimicrobial peptides from Caatinga plant species.
 </p>
 
 <p align="center">
-I'm passionate about computational biology and currently learning <b>Python</b>, <b>Linux</b>, and <b>Git</b> to build reproducible scientific workflows.
+  Passionate about computational biology and building reproducible scientific workflows with <b>Python</b>, <b>Linux</b> and <b>Git</b>.
 </p>
 
 <br>
 
-<h2 align="center">🛠 Tech Stack</h2>
+---
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,jupyter,anaconda" />
 </p>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heloisadr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heloisadr&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
+</p>
+
+<br>
+
+---
 
 <br>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=heloisadr&theme=github-dark&hide_border=true"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heloisadr&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
 </p>
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heloisadr&style=flat-square&color=58a6ff" alt="Profile views"/>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+</div>
