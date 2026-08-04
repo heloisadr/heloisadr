@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banneratgc.png" width="100%" alt="Banner"/>
+</div>
+
+<br>
+
 <h1 align="center">
   Hi 👋, I'm Heloisa
 </h1>
@@ -8,7 +14,6 @@
 
 <p align="center">
   Bioinformatics • Python • Genomics 
-</p>
 
 <br>
 
@@ -22,16 +27,16 @@
   <tr>
     <td width="60%">
       <p>
-        I'm an undergraduate student in <b>Bioprocess Engineering and Biotechnology</b> at <b>UNEB</b>.
+        I'm an undergraduate student in <b>Bioprocess Engineering and Biotechnology</b> at the State University of Bahia (<b>UNEB</b>).
       </p>
       <p>
-        Currently involved in <b>bioinformatics research</b>, focusing on the computational discovery of antimicrobial peptides from Caatinga plant species.
+        I'm currently conducting <b>bioinformatics research</b> focused on the computational discovery of antimicrobial peptides from Caatinga plant species.
       </p>
       <p>
-        Passionate about computational biology and building reproducible scientific workflows with <b>Python</b>, <b>Linux</b> and <b>Git</b>.
+        I'm passionate about bioinformatics and currently learning <b>Python</b>, <b>Linux</b>, and <b>Git</b> to build reproducible workflows for biological data analysis.
       </p>
       <p>
-        My goal is to combine biology and programming to create meaningful scientific tools.
+        My goal is to apply computational approaches to answer biological questions and contribute to scientific research.
       </p>
     </td>
     <td width="40%" align="center">
