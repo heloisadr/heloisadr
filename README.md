@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github%20profile.png" width="100%" alt="Banner"/>
+  <img src="banneratgc.png" width="100%" alt="Banner"/>
 </div>
 
 <br>
@@ -41,7 +41,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="download.gif" width="280px" alt="About image"/>
+      <img src="dnagif.gif" width="280px" alt="About image"/>
     </td>
   </tr>
 </table>
