@@ -10,5 +10,5 @@
 </h3>
 
 <p align="center">
-  🧬 Bioinformatics • 🐍 Python • 🧪 Computational Biology
+  Bioinformatics • Python • Computational Biology
 </p>
