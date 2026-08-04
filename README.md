@@ -12,6 +12,7 @@
 <p align="center">
   Bioinformatics • Python • Genomics
 </p>
+
 ## 🚀 About Me
 
 I'm an undergraduate student in **Bioprocess Engineering and Biotechnology** at **UNEB**.
