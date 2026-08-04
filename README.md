@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Heloísa%20Duarte&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bioprocess%20Engineering%20%26%20Biotechnology&descAlignY=55&descSize=16" width="100%"/>
+  <img src="github%20profile.png" width="100%" alt="Banner"/>
 </div>
 
 <br>
@@ -82,7 +82,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heloisadr&style=flat-square&color=58a6ff" alt="Profile views"/>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
-</div>
