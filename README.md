@@ -2,7 +2,7 @@
   <img src="github profile.png" width="100%">
 </p>
 <h1 align="center">
-  Hi 👋, I'm Heloísa Duarte
+  Hi 👋, I'm Heloisa
 </h1>
 
 <h3 align="center">
@@ -10,5 +10,5 @@
 </h3>
 
 <p align="center">
-  Bioinformatics • Python • Computational Biology
+  Bioinformatics • Python • Genomics
 </p>
