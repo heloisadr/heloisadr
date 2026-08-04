@@ -1,4 +1,4 @@
-<p align="center">
+<img src="github%20profile.png" width="100%">
   <img src="banner.png" width="100%" alt="Banner">
 </p>
 
