@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="banneratgc.png" width="100%" alt="Banner"/>
-</div>
-
-<br>
-
 <h1 align="center">
   Hi 👋, I'm Heloisa
 </h1>
